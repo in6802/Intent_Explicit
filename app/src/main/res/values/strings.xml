@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent_Explicit</string>
+    <string name="buttonSimple">Simple</string>
+    <string name="buttonResult">Result</string>
+    <string name="buttonListView">ListView</string>
+    <string name="textViewSingle">Single Intent</string>
+    <string name="buttonSingle">Single button</string>
+    <string name="textViewResult">Result</string>
+</resources>
